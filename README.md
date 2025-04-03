@@ -1,16 +1,64 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=0:ffffff,30:48c6ef,100:6f86d6&height=200&text=Welcome%20my%20github!&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="header">
+</p>
 
-<!--
-**koryeon/koryeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 안녕하세요! 저는 [김효연/koryeon] 입니다</h3>
+<p align="center">
+  <em>
+    열정적인 개발자 | 계속해서 배우는 중 📚
+  </em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="gydus241@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitors"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koryeon/koryeon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koryeon/koryeon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/koryeon/koryeon/output/pacman-contribution-graph.svg">
+</picture>
+
+
+## 🛠️ 기술 스택
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <!-- 더 많은 기술 스택 아이콘 추가 가능 -->
+</p>
+
+## 📊 GitHub 통계
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koryeon&show_icons=true&theme=tokyonight" style="margin-right: 70px" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koryeon&layout=compact&theme=tokyonight" />
+  </a>
+</div>
+
+
+
+
+
+## 🌟 주요 저장소
+<p align="center">
+  <a href="https://github.com/Drawjustin/KT_BIG_PROJECT.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drawjustin&repo=KT_BIG_PROJECT&theme=tokyonight" alt="Repo Card" />
+  </a>
+  <a href="https://github.com/koryeon/Data_campus.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koryeon&repo=Data_campus&theme=tokyonight" alt="Repo Card" />
+  </a>
+</p>
+
+
+## 📈 기여 활동
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koryeon&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
