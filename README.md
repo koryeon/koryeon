@@ -3,12 +3,18 @@
 </p>
 
 <h3 align="center">👋 안녕하세요! 저는 [김효연/koryeon] 입니다</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&lines=CLOUD+DEVELOPER" alt="Typing SVG" />
+  </a>
+</div>
+
 <p align="center">
-  <em>
-    열정적인 개발자 | 계속해서 배우는 중 📚
-  </em>
+  <em>열정적인 개발자 | 계속해서 배우는 중 📚</em>
 </p>
 
+  
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="gydus241@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
