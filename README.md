@@ -16,7 +16,7 @@
 
 <a href="https://github.com/git-goods/gitanimals">
   <img
-    src="https://render.gitanimals.org/farms/YOUR_USERNAME"
+    src="https://render.gitanimals.org/farms/koryeon"
     width="600"
     alt="나의 GitAnimals 농장"
   />
