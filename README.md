@@ -14,6 +14,13 @@
   <em>열정적인 개발자 | 계속해서 배우는 중 📚</em>
 </p>
 
+<a href="https://github.com/git-goods/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/YOUR_USERNAME"
+    width="600"
+    alt="나의 GitAnimals 농장"
+  />
+</a>
   
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -64,8 +71,5 @@
 </p>
 
 
-## 📈 기여 활동
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koryeon&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+
 
